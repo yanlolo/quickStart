@@ -1,7 +1,8 @@
 <!-- Replace the original file for the error of "Main-class" and "Entry"
 check in the target/quickstart-0.1.jar/META_INF/MANIFEST.MF:
-	Main-Class: org.myorg.quickstart.WordCount
+	Main-Class: org.myorg.quickstart.WordCount 
 -->
+
 
 
 <!--
